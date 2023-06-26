@@ -49,3 +49,12 @@ a:hover{
     padding-right: 5px;
     font-size: 14px;
 }
+
+#nav-home{
+    display: flex;
+}
+
+.breakfast-description{
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
