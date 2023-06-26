@@ -41,6 +41,7 @@ a:hover{
 
 .card-image{
     width: 100%;
+    height: auto;
 }
 
 .card-description{
@@ -54,7 +55,7 @@ a:hover{
     display: flex;
 }
 
-.breakfast-description{
+.page-description{
     border-bottom: 2px solid black;
     padding-bottom: 5px;
 }
