@@ -1,0 +1,33 @@
+body{
+    font-size: 20px;
+}
+
+.top-content{
+    text-align: center;
+}
+
+.top-content > img{
+    margin-bottom: 15px;
+}
+
+.index-paragraph {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+.index-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
