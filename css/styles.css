@@ -83,3 +83,7 @@ ul{
     padding: 5px 20px;
     border-bottom: 2px solid black;
 }
+
+.nav-home{
+    display: flex;
+}
