@@ -87,3 +87,13 @@ ul{
 .nav-home{
     display: flex;
 }
+
+.navbar{
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+}
+.logo{
+    width: 75px;
+    height: auto;
+}
